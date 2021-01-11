@@ -1,6 +1,7 @@
 {% assign education = site.data.data.education %}
-
-
+{% if education %}
+  {% if site.data.data.sidebar.education %}
+  
   
   <section class="section educations-section">
 
@@ -35,5 +36,6 @@
     {% endfor %}
 
   </section><!--//section-->
- 
   {% endif %}
+{% endif %}
+{% endif %}
