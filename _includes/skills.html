@@ -2,7 +2,7 @@
 {% if skills %}
 <div class="skills-container container-block">
 
-  <h2 class="section-title">
+  <h2 class="container-block-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
@@ -13,11 +13,9 @@
   <ul class="list-unstyled interests-list">
 
     {% for skill in skills.toolset %}
-    <li class="item">
+    <li>{{ skill.name }}
 
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-      
+         
       
 
     </li><!--//item-->
