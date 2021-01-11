@@ -15,16 +15,16 @@ sidebar:
     # Sidebar links
     email: hafid.elazouzi@gmail.com
     phone: +2126 70 09 96 44
-    #website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com #do not add http://
     linkedin: abdelhafid-elazouzi
     github: abdelhafidelazouzi
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    "codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: #'@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Arabe
@@ -193,5 +193,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-#footer: >
-    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
