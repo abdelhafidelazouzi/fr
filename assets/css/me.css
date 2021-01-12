@@ -1,16 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
-* {
-font-family: 'Montserrat', sans-serif;
-}
+* { font-family: 'Montserrat', sans-serif; }
 
-.section-title {
-    font-size: 16px;
-}
+.section-title { font-size: 16px; }
 
-.fa-stack {
-    color: #317c8c;
-}
+.fa-stack { color: #317c8c; }
 
 /*.main-wrapper {
     background: #fff;
@@ -35,9 +29,7 @@ hr {
     border-top: 1px dotted #337ab7;
 }
 
-.container-block-title {
-    line-height: 20px;
-}
+.container-block-title { line-height: 20px; }
 
 .me {
     float: left;
@@ -45,7 +37,6 @@ hr {
     margin-right: 8px;
     font-size: 15px;
 }
-
 
 .container-block-title p {
     line-height: 20px;
