@@ -14,10 +14,13 @@
 .objectif h2 { margin-left: 60px; margin-right: 60px; padding-top: 60px; }
 .objectif div { margin-left: 60px; margin-right: 60px; padding-bottom: 60px; }
 
+.section { padding: 60px; }
+
 .fa-stack { color: #317c8c; }
 
 .main-wrapper {
-    background: #fff;
+    /*background: #fff;*/
+    padding: 0;
     padding-right: 280px;
 }
 
