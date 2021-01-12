@@ -41,6 +41,7 @@ hr {
 
 .me {
     float: left;
-    margin-top: 8px;
+    margin-top: 4px;
     margin-right: 8px;
+    font-size: 15px;
 }
