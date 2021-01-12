@@ -8,6 +8,7 @@
 .section-title { font-size: 16px; }
 
 .lang-container ul li img { width: 30px; margin: 0; margin-right: 6px; margin-top: 12px; }
+.lang-container { background: cadetblue; }
 
 .fa-stack { color: #317c8c; }
 
