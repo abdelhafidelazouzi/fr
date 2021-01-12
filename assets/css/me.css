@@ -10,14 +10,18 @@
 .lang-container ul li img { width: 30px; margin: 0; margin-right: 6px; margin-top: 12px; }
 .lang-container { background: cadetblue; }
 
-/*.objectif { background: aqua; margin-bottom: 60px; padding: 0; }
+.objectif { background: aqua; margin-bottom: 60px; padding: 0; }
 .objectif h2 { margin-left: 60px; margin-right: 60px; padding-top: 60px; }
 .objectif div { margin-left: 60px; margin-right: 60px; padding-bottom: 60px; }
 
 .objectif.section.summary-section { padding: 0; text-align: justify; }
 
 .section { padding: 60px; }
-*/
+
+@media (max-width: 767px)
+.main-wrapper {
+    padding: 30px;
+}
 
 .fa-stack { color: #317c8c; }
 
