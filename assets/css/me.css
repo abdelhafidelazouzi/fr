@@ -20,11 +20,8 @@
 
 .fa-stack { color: #317c8c; }
 
-.main-wrapper {
-    /*background: #fff;*/
-    padding: 0;
-    padding-right: 280px;
-}
+.main-wrapper { padding: 0; padding-right: 280px; }
+.main-wrapper .section { margin-bottom: 0; }
 
 /*.main-wrapper {
     background: #fff;
