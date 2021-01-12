@@ -20,24 +20,12 @@
 
 .fa-stack { color: #317c8c; }
 
-.main-wrapper { padding: 0; padding-right: 280px; }
+.main-wrapper { padding: 0; padding-right: 320px; }
 .main-wrapper .section { margin-bottom: 0; padding-top: 0; padding-bottom: 20px; }
 
-/*.main-wrapper {
-    background: #fff;
-    padding: 60px;
-    padding-right: 360px;
-}
-
 .sidebar-wrapper {
-    background: #42A8C0;
-    position: absolute;
-    right: 0;
-    width: 300px;
-    height: 100%;
-    min-height: 800px;
-    color: #fff;
-}*/
+    width: 320px;
+}
 
 hr {
     margin-top: 0;
