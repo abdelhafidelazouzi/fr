@@ -55,4 +55,5 @@ hr {
 
 @media (max-width: 767px) {
     .main-wrapper { padding: 0; }
+    .sidebar-wrapper { width: inherit; }
 }
