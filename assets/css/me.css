@@ -45,3 +45,10 @@ hr {
     margin-right: 8px;
     font-size: 15px;
 }
+
+
+.container-block-title p {
+    line-height: 20px;
+    display: inline-block;
+    text-align: center;
+}
