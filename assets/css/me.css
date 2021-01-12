@@ -18,11 +18,6 @@
 
 .section { padding: 60px; }
 
-@media (max-width: 767px)
-.main-wrapper {
-    padding: 30px;
-}
-
 .fa-stack { color: #317c8c; }
 
 .main-wrapper {
@@ -71,4 +66,9 @@ hr {
 
 .email:hover a, .phone:hover a, .phone:hover i {
     background: black;
+}
+
+@media (max-width: 767px)
+.main-wrapper {
+    padding: 0;
 }
