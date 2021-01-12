@@ -16,6 +16,11 @@
 
 .fa-stack { color: #317c8c; }
 
+.main-wrapper {
+    background: #fff;
+    padding-right: 280px;
+}
+
 /*.main-wrapper {
     background: #fff;
     padding: 60px;
