@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: hafid.elazouzi@gmail.com
-    phone: +2126 70 09 96 44
+    phone: +212 6 70 09 96 44
     website: #blog.webjeda.com #do not add http://
     linkedin: abdelhafid-elazouzi
     github: abdelhafidelazouzi
@@ -172,7 +172,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences techniques &amp;
 
     toolset:
       - name: Python & Django
