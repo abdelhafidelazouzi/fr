@@ -46,3 +46,7 @@ hr {
     display: inline-block;
     text-align: center;
 }
+
+.email:hover a, .phone:hover a, .phone:hover i {
+    background: black;
+}
