@@ -34,3 +34,13 @@ hr {
     border: 0;
     border-top: 1px dotted #337ab7;
 }
+
+.container-block-title {
+    line-height: 20px;
+}
+
+.me {
+    float: left;
+    margin-top: 8px;
+    margin-right: 8px;
+}
