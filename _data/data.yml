@@ -55,33 +55,23 @@ sidebar:
 career-objectif:
     title: Objectif de carrière
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Passionné par les réseaux informatiques (infrastructure, administration, système et sécurité), 
+      avec une expérience pertinente de plus de 9 ans dans ces domaines. 
+      
 #############################################################################################
 career-profile:
     title: Résumé de carrière
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Muni d’un savoir-faire divers et d’un bagage technique très riche et varié. 
+      Souhaitant mettre à profit ses talents, ses aptitudes, ses ambitions et ses compétences dans un environnement de travail professionnel. 
+      Assoiffé par l'apprentissage et l'autoformation, prêt pour les nouveaux défis et motivé pour les nouvelles opportunités.
 #############################################################################################
 education:
     - degree: MSc in Computer Science
       university: University of London
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        [download this free resume/CV template here]()
           - Bullet point
           - Bullet point
     - degree: BSc in Applied Mathematics
