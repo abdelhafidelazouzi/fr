@@ -52,9 +52,7 @@ hr {
     text-align: center;
 }
 
-.email:hover a, .phone:hover a, .phone:hover i {
-    background: black;
-}
+li:hover svg, li:hover a { fill: black; color: black; font-weight: 900; font-size: 16px; }
 
 @media (max-width: 767px) {
     .main-wrapper { padding: 0; }
