@@ -52,8 +52,8 @@ sidebar:
       - item: Navigation Internet.
         link:
 #############################################################################################
-career-profile:
-    title: Résumé de carrière
+career-objectif:
+    title: Objectif de carrière
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -62,8 +62,8 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 #############################################################################################
-career-objectif:
-    title: Objectif de carrière
+career-profile:
+    title: Résumé de carrière
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
