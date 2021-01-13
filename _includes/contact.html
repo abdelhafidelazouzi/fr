@@ -3,7 +3,7 @@
 
     {% if sidebar.email %}
     <!-- <li class="email"><i class="fas fa-envelope"></i> -->
-      <img src="/images/mail.svg" alt="Girl in a jacket" width="30" height="30">
+      <img src="{{ site.baseurl }}/images/mail.svg" width="30" height="30" />
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
