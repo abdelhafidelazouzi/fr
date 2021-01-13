@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 * { font-family: 'Montserrat', sans-serif; }
+.sidebar-wrapper .contact-list li { margin-bottom: 14px; line-height: 26px; }
 svg { position: relative; top: 4px; margin-right: 10px; }
 
 .wrapper { max-width: 1280px; }
