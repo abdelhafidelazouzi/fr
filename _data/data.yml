@@ -53,7 +53,7 @@ sidebar:
         link:
 #############################################################################################
 career-profile:
-    title: Career Profile
+    title: Résumé de carrière
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -63,7 +63,7 @@ career-profile:
       Second paragraph if required.
 #############################################################################################
 career-objectif:
-    title: Career objectif
+    title: Objectif de carrière
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
